@@ -7,5 +7,9 @@
     "website": "https://www.oobit.com",
     "twitter": "https://x.com/oobit",
     "telegram": "https://t.me/oobit"
+  },
+  "creator": {
+    "name": "Oobit",
+    "site": "https://www.oobit.com"
   }
 }
