@@ -2,5 +2,10 @@
   "name": "Oobit",
   "symbol": "OOB",
   "description": "",
-  "image": "https://raw.githubusercontent.com/oob-token/token-metadata/main/logo.png"
+  "image": "https://raw.githubusercontent.com/oob-token/token-metadata/main/logo.png",
+  "extensions": {
+    "website": "https://www.oobit.com",
+    "twitter": "https://x.com/oobit",
+    "telegram": "https://t.me/oobit"
+  }
 }
